@@ -1,4 +1,4 @@
-# Hi there, I'm Baptiste 👋
+# Hi there, I'm Dmitri (Baptiste irl) 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;NestJS+%7C+Spring+Boot+%7C+Angular;Building+SaaS+Products)](https://git.io/typing-svg)
 
