@@ -84,8 +84,6 @@ I also maintain popular DayZ mods with 1M+ users on Steam:
 
 ## GitHub Stats
 
-[![TheDmitri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDmitri&show_icons=true&theme=radical)](https://github.com/TheDmitri)
-
 [![TheDmitri's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDmitri&theme=radical)](https://github.com/TheDmitri)
 
 ## Let's Connect
