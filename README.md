@@ -83,8 +83,8 @@ I also maintain popular DayZ mods with 1M+ users on Steam:
 
 ## Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RAILLARD.BAPTISTE@GMAIL.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BAPTISTE-RAILLARD)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t9YkApe7K9)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TheDmitri&style=for-the-badge)](https://github.com/TheDmitri)
