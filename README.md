@@ -41,6 +41,9 @@ Booking SaaS for villas and hotels in the Caribbean with a luxury travel magazin
 
 `Java` `Spring Boot` `Angular` `PostgreSQL` `Tailwind` `JWT Auth`
 
+![CaribBook Screenshot](https://github.com/TheDmitri/TheDmitri/blob/main/images/Screenshot%20from%202026-03-31%2010-17-30-1920x1080.png?raw=true)
+![CaribBook Screenshot](https://github.com/TheDmitri/TheDmitri/blob/main/images/Screenshot%20from%202026-03-31%2010-24-16-1920x1080.webp?raw=true)
+
 ---
 
 ### 🎛️ CaribPanel
@@ -57,6 +60,8 @@ Content management system allowing property owners to edit their websites linked
 
 Shipped from zero to production in 4 months. User dashboards, webhook integrations, and real-time monitoring.
 
+
+![DayZ Beans Screenshot](https://github.com/TheDmitri/TheDmitri/blob/main/images/dayzlauncher.png?raw=true)
 🔗 [dayzbeanslauncher.com](https://dayzbeanslauncher.com)
 
 `NestJS` `Angular` `PostgreSQL` `Docker` `CI/CD`
